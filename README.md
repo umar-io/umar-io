@@ -1,11 +1,10 @@
-![github banner]()
+![github banner](https://github.com/umar-io/umar-io/blob/main/umarirale.jpg)
 
 ## </> Umar Irale
 
-**`{{ inside curly braces }}`**
 
- I'm Umar Irale! (Frontend Engineer) Crafting seamless user interfaces with precision and creativity.
- To bridge the gap between design and technology, making the web more beautiful and functional, one line of code at a time.
+ I'm Umar Irale, Carrying the role of a frontend engineer and I specialize in crafting seamless user interfaces with precision and creativity.
+My mission is to bridge the gap between design and technology, making the web more beautiful and functional, one line of code at a time.
 
 <br/>
 
