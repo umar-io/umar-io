@@ -1,9 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on React and TypeScript Projects<br>🌱 I’m currently learning NodeJs and NextJs<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript<br>⚡ Fun fact is that I love playing games in my free time.
+👯 I’m looking to collaborate on React and TypeScript Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript<br>⚡ Fun fact is that I love playing basketball in my free time.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar_d3v) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_annonnymouss_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar_d3v) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/umar_d3v) 
 
 [![wakatime](https://wakatime.com/badge/user/f8912ed9-2ec0-4c72-b465-85d7331d9256.svg)](https://wakatime.com/@cbef514c-7a41-4787-b5da-0adb58a6411a)
 
