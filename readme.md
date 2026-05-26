@@ -6,7 +6,7 @@ I'm a **Junior Software Engineer** with over 2 years of experience in full-stack
 ## 🛠 Tech Stack
 - **Languages:**  PHP, JavaScript, TypeScript, Python
 - **Frontend:** React, Vue.js
-- **Backend:** PHP, Laravel, FastAPI Django, Flask
+- **Backend:** PHP, Laravel, FastAPI, Django, Flask
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 - **Cloud & DevOps:** AWS (S3, EC2), Firebase, Docker, GitHub Actions
 - **Testing & CI/CD:** Jest,  Cypress, Playwright, GitHub Actions
